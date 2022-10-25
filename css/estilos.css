@@ -1,0 +1,16 @@
+
+/* Centrar el Título con css */
+
+.container {
+
+text-align: center;
+
+}
+
+/* poner la fuente de un tamaña de 32 pixeles*/
+
+.form-control {
+    
+    font-size: 32px;
+    
+}
